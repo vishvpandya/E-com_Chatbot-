@@ -1,0 +1,9 @@
+streamlit
+pandas
+pandasql
+python-dotenv
+groq
+# semantic-router[local]
+semantic-router==0.0.35
+chromadb
+sentence_transformers
